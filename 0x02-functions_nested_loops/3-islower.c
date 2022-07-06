@@ -4,7 +4,7 @@
  *
  * @c: ASCII code
  *
- * return: Always 1 (on success)
+ * return: Always 1.
  */
 int _islower(int c)
 {
