@@ -1,12 +1,10 @@
 #include "main.h"
 /**
- * _islower - check for lowercase
- *
- * return: Always 1. (success)
+ * _islower - Check for lowercase.
  *
  * @c: ASCII code
  *
- * return: Always 0.(failure)
+ * return: Always 1.(success)
  */
 int _islower(int c)
 {
