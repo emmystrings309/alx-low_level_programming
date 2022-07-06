@@ -2,9 +2,11 @@
 /**
  * _islower - check for lowercase
  *
+ * return: Always 1. (success)
+ *
  * @c: ASCII code
  *
- * return: Always 1.
+ * return: Always 0.(failure)
  */
 int _islower(int c)
 {
