@@ -5,7 +5,7 @@
  * *@n: line
  * Return: void
  */
-void prunt_line(int n)
+void print_line(int n)
 {
 	int i;
 
