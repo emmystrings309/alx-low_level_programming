@@ -1,4 +1,12 @@
 #include "main.h"
+
+/**
+ * print_diagona - n lines
+ *
+ * @n: time diagonal
+ *
+ * Return: void
+ */
 void print_diagonal(int n)
 {
 	int i, j;
