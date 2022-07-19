@@ -2,12 +2,11 @@
 #include "main.h"
 
 /**
- *  * _strstr - locates a substring
- *   * @haystack: long string
- *    * @needle: substring
- *     *
- *      * Return: pointer
- *       */
+ * _strstr - locates a substring
+ * @haystack: long string
+ * @needle: substring
+ * Return: pointer
+ */
 char *_strstr(char *haystack, char *needle)
 {
 	int i;
