@@ -9,5 +9,5 @@
 - C-Bit manipulation
 - C-file I/O
 - Stingly Lists
-- Creating my own print f
+- Creating my own print-f
 - Creating my own shell
