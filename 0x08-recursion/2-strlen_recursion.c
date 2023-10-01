@@ -7,14 +7,13 @@
  * Return: Always 0.
 */
 
-void _print_rev_recursion(char *s)
+int _strlen_recursion(char *s)
 {
     int length = 0;
     if (*s == '\0'/* condition */)
     {
         /* code */
-        length += 0;
-        return;
+        return length += 0;;
     }
 
     _print_rev_recursion(s + 1);
