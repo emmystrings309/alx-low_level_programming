@@ -8,6 +8,6 @@
  * Return: Always 0 (Success)
  */
 int main(int argc, char *argv[]) {
-    printf("%d\n", argc - 1);  // argc includes the program name as the first argument
+    printf("%d\n", argc - 1);  /* argc includes the program name as the first argument */
     return 0;
 }
